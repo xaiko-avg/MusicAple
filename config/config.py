@@ -28,7 +28,7 @@ API_HASH = getenv("API_HASH")
 ## Get it from @Botfather in Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 
-MUST_JOIN = getenv("MUST_JOIN", "AnonymousX888")
+MUST_JOIN = getenv("MUST_JOIN", "Cari_Teman_Random_Chat")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -56,7 +56,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/AnonymousX888/ExtraPlugin",
+    "https://github.com//ExtraPlugin",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
